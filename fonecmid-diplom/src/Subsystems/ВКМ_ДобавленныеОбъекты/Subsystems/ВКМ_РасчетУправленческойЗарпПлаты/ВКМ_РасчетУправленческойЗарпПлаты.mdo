@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="abf0c61f-f13b-4fd0-ba7f-3c3dd58a4a48">
+  <name>ВКМ_РасчетУправленческойЗарпПлаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ расчет управленческой зарп платы</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
+</mdclass:Subsystem>
