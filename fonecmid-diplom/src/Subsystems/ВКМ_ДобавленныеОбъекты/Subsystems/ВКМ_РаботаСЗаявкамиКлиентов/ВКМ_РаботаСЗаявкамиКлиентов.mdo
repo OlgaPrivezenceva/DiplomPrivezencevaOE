@@ -11,5 +11,6 @@
   <content>Document.ВКМ_ОбслуживаниеКлиентов</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыВыполненныеКлиентуРаботы</content>
   <content>Constant.ВКМ_НоменклатураАбоненскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
