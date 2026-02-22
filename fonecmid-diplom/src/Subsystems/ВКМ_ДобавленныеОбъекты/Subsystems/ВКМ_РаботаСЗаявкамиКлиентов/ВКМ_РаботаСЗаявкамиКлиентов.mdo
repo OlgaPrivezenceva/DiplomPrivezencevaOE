@@ -8,5 +8,8 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Enum.ВКМ_ВидыДоговоровКонтрагентов</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиентов</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыВыполненныеКлиентуРаботы</content>
+  <content>Constant.ВКМ_НоменклатураАбоненскаяПлата</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
